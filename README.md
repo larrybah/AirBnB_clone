@@ -28,7 +28,7 @@ $ echo "help" | ./console.py
 (hbnb)
 Documented commands (type help <topic>):
 ========================================
-EOF  all  count  create  destroy  help  quit  show  update
+EOF help  quit
 
 (hbnb)
 $
